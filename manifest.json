@@ -10,6 +10,9 @@
     "declarativeNetRequest",
     "tabs"
   ],
+   "icons": {
+    "512": "logo.png"
+  },
   "host_permissions": [
     "*://*/*"
   ],
